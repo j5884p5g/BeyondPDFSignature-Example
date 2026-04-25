@@ -3,8 +3,5 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": [],
-  "runs-on": "ubuntu-latest",
-  "githubRunner": "ubuntu-latest",
-  "githubRunnerShell": "pwsh"
+  "bcptTestFolders": []
 }
